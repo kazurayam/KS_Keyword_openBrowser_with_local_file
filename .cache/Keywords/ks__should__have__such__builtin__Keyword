@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D2D7068481D4B337165FA1D12C9AAF93",
+  "keywordClasses": [
+    {
+      "name": "ks.should.have.such.builtin.Keyword",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
